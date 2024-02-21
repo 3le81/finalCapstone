@@ -1,0 +1,8 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;Yes
+leonardo;school;doing homework;2024-02-07;2024-02-06;No
+elena;workshop;complete the workshop;2024-02-07;2024-02-06;No
+elena;chicken roast;cook chicken roast for dinner;2024-02-06;2024-02-06;No
+leonardo;games;playing games and wordle;2024-02-06;2024-02-06;No
+admin;sleep;sleeping;2024-02-07;2024-02-06;No
+elena;code;debugging code;2024-02-09;2024-02-08;No
+Elena;code improvement;improving capstone project 17;2024-02-12;2024-02-08;No
