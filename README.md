@@ -50,6 +50,6 @@ _Contacts table_
 
 ## Credits
 
-This Task Manager application was developed by [Elena Pagano](https://https://github.com/3le81) as the last of the projects completed during the _HyperionDev_ Software Engineering Bootcamp.
+This Task Manager application was developed by [Elena Pagano](https://github.com/3le81) as the last of the projects completed during the _HyperionDev_ Software Engineering Bootcamp.
 All the projects from this Bootcamp can be found [here](https://github.com/3le81/python_course.git) :nerd_face:
 Special thanks to the instructors and mentors who provided guidance and support throughout the whole programme.
